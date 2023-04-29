@@ -53,5 +53,5 @@ At the end of the code, the test accuracy will be printed out.
 
 ## Best result
 
-We achieved test accuracy 91.2% by using learning rate 1e-4, batch size 32 and 77 epochs. We saved our best model parameters in the file `Resnet50.pth`.
+We achieved test accuracy 92.8% by using learning rate 1e-4, batch size 32 and 77 epochs. We saved our best model parameters in the file `Resnet50.pth`.
 
